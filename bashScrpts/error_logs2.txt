@@ -1,0 +1,6 @@
+ERROR Failed to connect to DB
+ERROR Timeout on /api/data
+ERROR Invalid input
+ERROR Memory leak
+ERROR Disk full
+ERROR Connection reset
